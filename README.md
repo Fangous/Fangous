@@ -1,5 +1,6 @@
 ## About Me
 - CEO @ [PlayHeart](https://github.com/PlayHeart-LLC)
+- Former Accelerator at Roblox (2018)
 - Former Programmer for the Special Projects Team at Gamefam (2021–2023)
 - Self-taught Roblox developer
 
