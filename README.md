@@ -14,4 +14,3 @@
 <div align="center">
     <p><b>Quote</b></p>
 </div>
-
