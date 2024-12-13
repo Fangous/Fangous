@@ -1,7 +1,8 @@
 ## About Me
 - CEO @ [PlayHeart](https://github.com/PlayHeart-LLC)
-- Former Accelerator at Roblox (2018)
-- Former Programmer for the Special Projects Team at Gamefam (2021–2023)
+- Accelerator Intern at Roblox (Summer 2018)
+- Briefly worked on *[Adopt Me!](https://www.roblox.com/games/920587237/WINTER-Adopt-Me)* at [DreamCraft](https://www.roblox.com/communities/5035363/DreamCraft#!/about) (now [Uplift Games](https://github.com/UpliftGames)) (2018)
+- Former Programmer for the Special Projects Team at [Gamefam](https://github.com/Gamefam) (2021–2023)
 - Self-taught Roblox developer
 
 ## Open Source Projects
@@ -12,5 +13,5 @@
 </div>
 
 <div align="center">
-    <p><b>Quote</b></p>
+    <p><b>"Quote"</b></p>
 </div>
