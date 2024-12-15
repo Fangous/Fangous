@@ -10,5 +10,5 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <img src="gifs/jonsnowcharge.gif" alt="GIF" width="500" height="auto">
-    <p><b> </b></p>
+    <p><b>""</b></p>
 </div>
