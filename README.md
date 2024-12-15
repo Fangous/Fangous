@@ -8,7 +8,6 @@
 ## Open Source Projects
 - [RbxBehaviorTree](https://github.com/Fangous/RbxBehaviorTree) & [RbxBehaviorTreeVisualizer](https://github.com/Fangous/RbxBehaviorTreeVisualizer) - A simple behavior tree implementation for Roblox, along with a Roblox Studio plugin for visualizing and debugging behavior trees.
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div align="center">
     <img src="gifs/jonsnowcharge.gif" alt="GIF" width="500" height="auto">
-    <p><b>""</b></p>
 </div>
