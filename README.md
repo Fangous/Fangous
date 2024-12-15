@@ -5,9 +5,9 @@
 - Former Programmer for the Special Projects Team at [Gamefam](https://github.com/Gamefam) (2021–2023)
 - Self-taught Roblox game developer
 
-## Open Source Projects
-- [RbxBehaviorTree](https://github.com/Fangous/RbxBehaviorTree) & [RbxBehaviorTreeVisualizer](https://github.com/Fangous/RbxBehaviorTreeVisualizer) - A simple behavior tree implementation for Roblox, along with a Roblox Studio plugin for visualizing and debugging behavior trees.
-
 <div align="center">
     <img src="gifs/jonsnowcharge.gif" alt="GIF" width="500" height="auto">
 </div>
+
+## Open Source Projects
+- [RbxBehaviorTree](https://github.com/Fangous/RbxBehaviorTree) & [RbxBehaviorTreeVisualizer](https://github.com/Fangous/RbxBehaviorTreeVisualizer) - A simple behavior tree implementation for Roblox, along with a Roblox Studio plugin for visualizing and debugging behavior trees.
